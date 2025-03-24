@@ -8,6 +8,8 @@ This is a simple front-end project created as part of the BS-Udemig Education pr
 
 - CSS3 styling
 
+- Bootstrap
+
 - Image usage
 
 - Responsive layout (basic level)
